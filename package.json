@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parkjihwanjay/query-parser.git"
+    "url": "git+https://github.com/parkjihwanjay/query-parser-url.git"
   },
   "author": "cc6656 <cc6656@likelion.org>",
   "keywords": ["url", "query"],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/parkjihwanjay/query-parser/issues"
+    "url": "https://github.com/parkjihwanjay/query-parser-url/issues"
   },
-  "homepage":"https://github.com/parkjihwanjay/query-parser#readme",
+  "homepage":"https://github.com/parkjihwanjay/query-parser-url#readme",
   "devDependencies": {
     "typescript": "^3.9.7"
   }
