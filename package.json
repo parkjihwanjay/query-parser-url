@@ -1,9 +1,9 @@
 {
   "name": "query-parser-url",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A Node.js module that parses query string of url and makes them into an object",
   "main": "dist/index.js",
-  "types" : "dist/index.d.ts",
+  "types": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
@@ -12,12 +12,15 @@
     "url": "git+https://github.com/parkjihwanjay/query-parser-url.git"
   },
   "author": "cc6656 <cc6656@likelion.org>",
-  "keywords": ["url", "query"],
+  "keywords": [
+    "url",
+    "query"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/parkjihwanjay/query-parser-url/issues"
   },
-  "homepage":"https://github.com/parkjihwanjay/query-parser-url#readme",
+  "homepage": "https://github.com/parkjihwanjay/query-parser-url#readme",
   "devDependencies": {
     "typescript": "^3.9.7"
   }
